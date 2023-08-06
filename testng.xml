@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Guru99 Application">
+    <test verbose="2" preserve-order="true" name="Guru99">
+        <classes>
+            <class name="com.maroti.page.RegisterPageTest" />
+        </classes>
+    </test>
+</suite>
